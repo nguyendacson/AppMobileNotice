@@ -8,6 +8,10 @@ Notes and Notification APP
 
 The application helps users make appointments as well as take notes. It has specific date, time, and minute customizations, and notes holidays of the year.
 
+## Contribute 
+
+Personal project for one member.
+
 ## Setup
 
 You need to have applications that support running Android projects to be able to run this project. Then pull the project back and most effectively, please link to a data here I use firebase.
