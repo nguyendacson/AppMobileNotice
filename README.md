@@ -1,4 +1,4 @@
-# 🎬 Movies App
+# 🔔 Notification App
 
 Welcome to *Notification App*!  
 An Android application designed to help users manage tasks, receive alerts, and stay organized with a clean user experience.
